@@ -39,6 +39,13 @@ To design a system that:
 5. Cost is calculated using tariff.
 
 ---
+## 🔌 Circuit Diagram
+![Circuit Diagram](circuit diagram.png)
+
+---
+
+## 🔄 Workflow Diagram
+![Workflow Diagram](workflow.png)
 
 ##  Output
 
