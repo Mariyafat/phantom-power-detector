@@ -40,7 +40,7 @@ To design a system that:
 
 ---
 ## 🔌 Circuit Diagram
-![Circuit Diagram](circuit diagram.png)
+![Circuit Diagram](circuit.png)
 
 ---
 
